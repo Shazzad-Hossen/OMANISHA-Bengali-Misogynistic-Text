@@ -89,7 +89,7 @@ One instance from each class (taken from `dataset.csv`):
 | Non Misogynistic | আপু প্রথম প্রজন্মের নারী উদ্যোক্তা হিসেবে সফল | Apu is successful as a first-generation female entrepreneur. |
 | Stereotype | মেয়েদের বিয়ে তাড়াতাড়ি দেওয়াই পরিবারের জন্য ভালো | It is better for the family to marry girls off early. |
 | Derogation | এই মেয়ের ভ্রু দুটো এত মোটা যে একটা কালো বাঁধের মতো দেখায় | This girl’s eyebrows are so thick that they look like a black dam. |
-| Sexual Harassment | মামুনি তোমাকে ব্রা ছাড়াই সুন্দর লাগছে | Sweetie, you look beautiful even without a bra. |
+| Sexual Harassment | বুঝতে পেরেছি তোমার এখন দেহের বাজার ভালো | I understand that your body has good market value now. |
 
 ---
 
