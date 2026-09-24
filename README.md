@@ -1,4 +1,4 @@
-
+![OMANISHA Thumbnail](/thumbnail.png)
 # OMANISHA: A Benchmark Dataset for Identifying and Categorizing Bengali Misogynistic Text
 
 OMANISHA (Online Misogynistic Annotated Natural-language Instances for Sentiment and Hate Analysis) is a Bengali dataset developed to support the automatic detection of misogynistic discourse in online spaces. Misogynistic content on online platforms has serious psychological, social, and institutional consequences for women, as it contributes to gender inequality, normalizes gender-based violence, and discourages women from participating freely in digital communities. Despite the global significance of Bengali, computational resources for detecting gender-based online abuse in Bengali remain limited. OMANISHA addresses this gap by providing a reliable, publicly accessible dataset for online misogyny detection. 
